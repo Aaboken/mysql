@@ -1,0 +1,2 @@
+[MySql]
+172.16.205.225 ansible_user=root
